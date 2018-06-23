@@ -22,6 +22,6 @@ li.a:hover, a.a:active
 }
 .backimages
 {
-     background: url(images.jpg) no-repeat ; 
+     background: url(img.jpg) no-repeat ; 
     background-size: 100%,100%;
 }
